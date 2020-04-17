@@ -1,2 +1,1 @@
-# vm-downloads
-Free UTM virtual machines
+Check [https://github.com/utmapp/vm-downloads/releases](releases) for UTM virtual machine downloads.
