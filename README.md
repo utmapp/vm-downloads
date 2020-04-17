@@ -1,1 +1,1 @@
-Check [https://github.com/utmapp/vm-downloads/releases](releases) for UTM virtual machine downloads.
+Check [releases](https://github.com/utmapp/vm-downloads/releases) for UTM virtual machine downloads.
